@@ -24,7 +24,7 @@
     "homepage": "httpshttps://github.com/microsoft/vscode-textbuffer#readme",
     "devDependencies": {
         "@types/jest": "^29.5.14",
-        "jest": "^29.7.0",
+        "jest": "^30.0.0",
         "kind-of": ">=6.0.3",
         "minimist": ">=1.2.8",
         "node-notifier": ">=10.0.1",
